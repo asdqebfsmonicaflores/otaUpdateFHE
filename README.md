@@ -1,4 +1,4 @@
-```markdown
+
 # OTA Update FHE: A Secure FHE-Based Protocol for Over-the-Air Software Updates for Vehicles 🚗🔒
 
 OTA Update FHE is a cutting-edge protocol that leverages **Zama's Fully Homomorphic Encryption (FHE)** technology to enable secure over-the-air (OTA) software updates for vehicles. By ensuring that both the update packages and the vehicle identities are encrypted with FHE, this solution guarantees a safe update process, protecting against hacking attempts and safeguarding owners' privacy.
